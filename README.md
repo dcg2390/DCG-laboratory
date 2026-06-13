@@ -10,9 +10,21 @@
 
 ---
 
-## 🎬 PANEL ANIMADO
+## 🎬 PANEL DCG-LAB
 <p align="center">
-  <img src="https://i.imgur.com/9XgQrQH.jpg" width="480" alt="Dexter en su laboratorio">
+  <img src="./assets/img/dexter_03.jpg" width="550" alt="Dexter en su laboratorio">
+</p>
+
+<p align="center">
+  <img src="./assets/img/dexter_01.jpg" width="220" alt="Dexter señalando">
+  <img src="./assets/img/dexter_02.jpg" width="320" alt="Dexter y sus hermanas">
+  <img src="./assets/img/dexter_06.jpg" width="300" alt="Controlando máquinas">
+</p>
+
+<p align="center">
+  <img src="./assets/img/dexter_04.jpg" width="210" alt="Abriendo caja fuerte">
+  <img src="./assets/img/dexter_05.jpg" width="250" alt="Experimento en marcha">
+  <img src="./assets/img/dexter_07.jpg" width="220" alt="Dexter sabio">
 </p>
 
 ---
