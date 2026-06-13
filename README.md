@@ -67,4 +67,4 @@ pkg install git nodejs -y
 git clone https://github.com/dcg2390/DCG-laboratory.git
 cd DCG-laboratory
 npm install
-npm start
+npm start 
