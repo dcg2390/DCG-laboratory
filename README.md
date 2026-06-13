@@ -12,7 +12,7 @@
 
 ## 🎬 PANEL ANIMADO
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7TKtnu0HOUVp6bFS/giphy.gif" width="420" alt="Laboratorio de Dexter">
+  <img src="https://i.imgur.com/9XgQrQH.jpg" width="480" alt="Dexter en su laboratorio">
 </p>
 
 ---
