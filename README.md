@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&height=200&section=header&color=00F0FF,FFEA00&text=DCG-BOT&fontColor=FFFFFF&fontSize=40" alt="Cabecera DCG-Bot">
-</p>
 
-# 👋 BIENVENIDO A DCG-LAB
+
+#🎴BIENVENIDO A DCG-LAB📱#
 
 **Usuario:** dcg2390
 **Proyecto:** DCG-Bot • Bot Multiusos para WhatsApp
