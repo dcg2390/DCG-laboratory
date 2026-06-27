@@ -6,17 +6,7 @@
 
 **Usuario:** dcg2390
 **Proyecto:** DCG-Bot • Bot Multiusos para WhatsApp
-✨ *Apóyame dejando tu ⭐ estrellita*
 
----
-
-## 🎬 PANEL DCG-LAB
-<p align="center">
-  <img src="./assets/img/dexter_03.jpg" width="550" alt="Dexter en su laboratorio">
-</p>
-
-<p align="center">
-  <img src="./assets/img/dexter_04.jpg" width="210" alt="Abriendo caja fuerte">
 
 ## 🔗 PANEL DE ENLACES
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00F0FF?style=for-the-badge&logo=whatsapp&logoColor=FFEA00)](https://wa.me/528114895750)
