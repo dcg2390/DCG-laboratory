@@ -16,18 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/img/dexter_01.jpg" width="220" alt="Dexter señalando">
-  <img src="./assets/img/dexter_02.jpg" width="320" alt="Dexter y sus hermanas">
-  <img src="./assets/img/dexter_06.jpg" width="300" alt="Controlando máquinas">
-</p>
-
-<p align="center">
   <img src="./assets/img/dexter_04.jpg" width="210" alt="Abriendo caja fuerte">
-  <img src="./assets/img/dexter_05.jpg" width="250" alt="Experimento en marcha">
-  <img src="./assets/img/dexter_07.jpg" width="220" alt="Dexter sabio">
-</p>
-
----
 
 ## 🔗 PANEL DE ENLACES
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00F0FF?style=for-the-badge&logo=whatsapp&logoColor=FFEA00)](https://wa.me/528114895750)
